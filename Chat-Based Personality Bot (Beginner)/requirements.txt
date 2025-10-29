@@ -1,0 +1,4 @@
+langchain-huggingface>=0.1.0
+transformers>=4.44.0
+langchain-huggingface>=0.1.0
+transformers>=4.44.0
